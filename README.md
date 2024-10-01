@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Hugo Gabriel. 👋👋👋
 
 Atualmente sou estudande de Engenharia de Software na UniEvangélica
+
 Estou querendo sempre aprender mais sobre programação, é uma área que gosto muito
 
 Minhas Redes:
